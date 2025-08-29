@@ -2,7 +2,7 @@
 
 This handbook is your complete guide to contributing to research projects in the IXI Lab. It covers everything from the basic workflow to best practices for collaboration and code quality.
 
-## 🎯 The Golden Rule: Issues and Pull Requests
+## The Golden Rule: Issues and Pull Requests
 
 All work in this lab follows a simple but powerful principle: **Everything goes through Issues and Pull Requests.**
 
@@ -15,7 +15,7 @@ This system ensures:
 - **Documentation:** Every change is tracked and documented
 - **Collaboration:** Team members can work together effectively
 
-## 🔄 The Standard Workflow
+## The Standard Workflow
 
 Every piece of work, from fixing a typo to adding a new analysis, follows this five-step process:
 
@@ -25,7 +25,7 @@ Every piece of work, from fixing a typo to adding a new analysis, follows this f
 2. **Look for existing issues** that match what you want to work on
 3. **If no issue exists, create one:**
    - Click "New issue"
-   - Choose the appropriate template (🐞 Bug Report, ✨ Feature Request, etc.)
+   - Choose the appropriate template (Bug Report, Feature Request, etc.)
    - Fill out the template completely
    - Add relevant labels
    - Assign the issue to yourself
@@ -116,9 +116,9 @@ type(scope): description
    - Once approved, your Team Leader will merge the PR
    - Your changes become part of the main project
 
-## 📊 Data Management Policy
+## Data Management Policy
 
-### ❌ Never Commit These to Git
+### Never Commit These to Git
 
 - **Large data files** (> 10MB)
 - **Raw data** (unless it's small sample data for testing)
@@ -126,7 +126,7 @@ type(scope): description
 - **Personal information** (names, addresses, etc.)
 - **Generated results** (figures, tables, model outputs)
 
-### ✅ What to Commit
+### What to Commit
 
 - **Source code** and scripts
 - **Configuration files** (without sensitive data)
@@ -134,7 +134,7 @@ type(scope): description
 - **Small sample datasets** for testing
 - **Environment files** (requirements.txt, environment.yml)
 
-### 🔐 Handling Sensitive Data
+### Handling Sensitive Data
 
 1. **Use environment variables:**
    ```python
@@ -151,7 +151,7 @@ type(scope): description
    - Cloud storage (with proper access controls)
    - Lab data management system
 
-## 🧪 Best Practices for Research Code
+## Best Practices for Research Code
 
 ### Code Quality Standards
 
@@ -221,7 +221,7 @@ type(scope): description
    - Create analysis reports in the `manuscript/` directory
    - Document any data processing steps
 
-## 🤝 Collaboration Guidelines
+## Collaboration Guidelines
 
 ### Communication
 
@@ -254,7 +254,7 @@ type(scope): description
    - Make requested changes promptly
    - Ask questions if you don't understand feedback
 
-## 🛠️ Common Commands and Workflows
+## Common Commands and Workflows
 
 ### Setting Up a New Project
 
@@ -297,7 +297,7 @@ git checkout feature/your-branch
 git rebase main
 ```
 
-## 📞 Getting Help
+## Getting Help
 
 ### When to Ask for Help
 
@@ -318,7 +318,7 @@ git rebase main
    - For help with technical problems
 
 3. **Create an Issue:**
-   - Use the "❓ Question" template
+   - Use the "Question" template
    - Provide clear details about your problem
    - Include any relevant error messages
 
@@ -326,18 +326,18 @@ git rebase main
    - Bring up general questions during lab meetings
    - Share your progress and challenges
 
-## 🎯 Success Metrics
+## Success Metrics
 
 You're doing well if you:
 
-- ✅ Follow the Issues and Pull Requests workflow consistently
-- ✅ Write clear, well-documented code
-- ✅ Participate actively in code reviews
-- ✅ Help other team members when you can
-- ✅ Keep your work organized and reproducible
-- ✅ Communicate effectively with your team
+- Follow the Issues and Pull Requests workflow consistently
+- Write clear, well-documented code
+- Participate actively in code reviews
+- Help other team members when you can
+- Keep your work organized and reproducible
+- Communicate effectively with your team
 
-## 📚 Additional Resources
+## Additional Resources
 
 - **GitHub Documentation:** [GitHub Guides](https://guides.github.com/)
 - **Git Cheat Sheet:** [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
@@ -348,4 +348,4 @@ You're doing well if you:
 
 **Remember:** The goal is not just to use GitHub, but to use it effectively to make our research better, more collaborative, and more reproducible. Every contribution, no matter how small, helps build a stronger research community.
 
-**Happy researching! 🎉**
+**Happy researching!**

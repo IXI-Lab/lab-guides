@@ -2,20 +2,20 @@
 
 Welcome to the IXI Lab! We use GitHub to make our research more **collaborative**, **reproducible**, and **transparent**. This guide will help you navigate our documentation and get started with your research.
 
-## 🎯 Our Mission
+## Our Mission
 
 Our goal is to conduct high-quality research that is:
 - **Collaborative**: Working together effectively across projects and teams
 - **Reproducible**: Ensuring all research can be replicated and validated
 - **Transparent**: Making our methods, data, and findings accessible to the community
 
-## 📚 Documentation Structure
+## Documentation Structure
 
 We've organized our documentation into three levels based on your role in the lab:
 
 ---
 
-## 📖 Section 1: For All Lab Members
+## Section 1: For All Lab Members
 
 **Who this is for:** Everyone in the lab - students, researchers, postdocs, and faculty.
 
@@ -31,7 +31,7 @@ We've organized our documentation into three levels based on your role in the la
 
 ---
 
-## 👥 Section 2: For Team Leaders
+## Section 2: For Team Leaders
 
 **Who this is for:** Project managers, senior researchers, and postdocs who lead specific research projects.
 
@@ -48,7 +48,7 @@ We've organized our documentation into three levels based on your role in the la
 
 ---
 
-## 🔐 Section 3: For Organization Owners
+## Section 3: For Organization Owners
 
 **Who this is for:** Principal Investigator (PI) and designated lab administrators.
 
@@ -65,21 +65,21 @@ We've organized our documentation into three levels based on your role in the la
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **New to the lab?** Start with [ONBOARDING.md](ONBOARDING.md)
 2. **Ready to contribute?** Read [MEMBER_HANDBOOK.md](MEMBER_HANDBOOK.md)
 3. **Leading a project?** Request access to the Lab Leader Playbook
 4. **Managing the lab?** You already have access to the Owner Manual
 
-## 🤝 Getting Help
+## Getting Help
 
 - **Technical questions:** Create an issue in your project repository
 - **Workflow questions:** Ask your Team Leader
 - **Access issues:** Contact an Organization Owner
 - **General questions:** Use the lab's communication channels (Slack, email, etc.)
 
-## 📝 Contributing to Documentation
+## Contributing to Documentation
 
 Found an error or have a suggestion? We welcome contributions to improve our documentation:
 
@@ -87,13 +87,13 @@ Found an error or have a suggestion? We welcome contributions to improve our doc
 2. Fork the repository and make your changes
 3. Submit a pull request with your improvements
 
-## 🔄 Updates
+## Updates
 
 This documentation is regularly updated to reflect our evolving practices. Check back periodically for the latest information.
 
 ---
 
-**Happy researching! 🎉**
+**Happy researching!**
 
 *Last updated: [Current Date]*
 *Version: 1.0*

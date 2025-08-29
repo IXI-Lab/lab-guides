@@ -2,7 +2,7 @@
 
 Welcome to the IXI Lab! This checklist will guide you through your first day and get you ready to contribute to our research projects.
 
-## ✅ Step 1: Accept Your Invitation
+## Step 1: Accept Your Invitation
 
 1. **Check your email** for an invitation to join the IXI-Lab GitHub organization
 2. **Click the invitation link** in the email
@@ -11,7 +11,7 @@ Welcome to the IXI Lab! This checklist will guide you through your first day and
 
 > **Note:** If you don't see the invitation email, check your spam folder or contact an Organization Owner.
 
-## 🔐 Step 2: Enable Two-Factor Authentication (2FA)
+## Step 2: Enable Two-Factor Authentication (2FA)
 
 **This step is MANDATORY and must be completed before you can access any projects.**
 
@@ -34,7 +34,7 @@ Welcome to the IXI Lab! This checklist will guide you through your first day and
 
 > **Security Note:** 2FA is required for all lab members to protect our research data and code.
 
-## 👋 Step 3: Introduce Yourself
+## Step 3: Introduce Yourself
 
 1. **Join our communication channels:**
    - Slack workspace (invitation will be sent separately)
@@ -46,7 +46,7 @@ Welcome to the IXI Lab! This checklist will guide you through your first day and
    - Mention which projects you'll be working on
    - Ask any questions you have about the lab
 
-## 🎯 Step 4: Get Assigned to a Team
+## Step 4: Get Assigned to a Team
 
 1. **Contact your Team Leader or an Organization Owner:**
    - Let them know you've completed Steps 1-3
@@ -60,7 +60,7 @@ Welcome to the IXI Lab! This checklist will guide you through your first day and
    - Try accessing your project repository
    - You should be able to see the code and issues
 
-## 📚 Step 5: Learn the Workflow
+## Step 5: Learn the Workflow
 
 1. **Read the Member Handbook:**
    - Go to [MEMBER_HANDBOOK.md](MEMBER_HANDBOOK.md)
@@ -72,7 +72,7 @@ Welcome to the IXI Lab! This checklist will guide you through your first day and
    - Code quality standards
    - Collaboration best practices
 
-## 🛠️ Step 6: Set Up Your Development Environment
+## Step 6: Set Up Your Development Environment
 
 1. **Install required software:**
    - Git (if not already installed)
@@ -100,7 +100,7 @@ Welcome to the IXI Lab! This checklist will guide you through your first day and
    pip install -e .
    ```
 
-## 🎉 Step 7: Start Contributing
+## Step 7: Start Contributing
 
 1. **Find your first task:**
    - Go to your project repository's "Issues" tab
@@ -113,7 +113,7 @@ Welcome to the IXI Lab! This checklist will guide you through your first day and
    - Submit a pull request
    - Participate in code review
 
-## 📞 Getting Help
+## Getting Help
 
 If you encounter any issues during onboarding:
 
@@ -121,7 +121,7 @@ If you encounter any issues during onboarding:
 - **Access issues:** Contact your Team Leader or an Organization Owner
 - **General questions:** Ask in the lab's communication channels
 
-## 🎯 Next Steps
+## Next Steps
 
 Once you've completed this checklist:
 
